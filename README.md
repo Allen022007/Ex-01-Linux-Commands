@@ -1,5 +1,7 @@
 # Ex-01-Linux-Commands
 
+Name : W Allen Johnston Ozario
+Reg. No : 21222411004
 
 ## Aim:
 
@@ -221,15 +223,6 @@ Syntax: df
 The find command is used to find a particular file within a directory.
 
 Syntax: find.-name”*.pdf”
-
-
-
-
-
-
-
-
-
 
 
 

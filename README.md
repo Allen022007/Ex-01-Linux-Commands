@@ -1,5 +1,7 @@
 # Ex-01-Linux-Commands
 
+## Name : W Allen Johnston Ozario
+## Reg. No: 21222411004
 
 ## Aim:
 
